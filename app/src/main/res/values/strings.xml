@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula2</string>
+    <string name="pergunta">Qual o ano que foi fundado o Centro Universitário Facens?</string>
+    <string name="resbtn1">1976</string>
+    <string name="resbtn2">1946</string>
+    <string name="resbtn3">1956</string>
+    <string name="resbtn4">1986</string>
+    <string name="resbtn5">1980</string>
+</resources>
